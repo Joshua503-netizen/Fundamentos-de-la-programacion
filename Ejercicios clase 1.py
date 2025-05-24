@@ -1,6 +1,6 @@
 '''
-Clase:        2
-Tema:         Bloque condicional
+Clase:        1
+Tema:         Variables
 Ejercicio:    Ejercicios de contraseña segura y calculo de impuesto
 Descripción:  Calcular la propina de una cuenta y crear un correro electronico
 
